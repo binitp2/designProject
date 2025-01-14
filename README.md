@@ -1,6 +1,6 @@
-# Attendease - Attendance Management System 
+# Attendease - Attendance Management System
 
-## Getting Started
+## Author - Binit Patel
 
 First, run the development server:
 
