@@ -1,6 +1,6 @@
 # Attendease - Attendance Management System
 
-## Author - Binit Patel 230143107014
+## Author - Binit Patel 230143107014 D2D
 
 First, run the development server:
 
